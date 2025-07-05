@@ -1,0 +1,22 @@
+body{
+    background-color:gold;
+}
+
+h1 {
+    font-size: xxx-large;
+    color: darkgreen;
+}
+
+h2 {
+    font-size: xx-large;
+    color: darkgreen;
+}
+
+p {
+    font-size: large;
+    color: green;
+}
+.leoa{
+    font-size: 25px;
+    text-decoration: underline;
+}
